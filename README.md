@@ -8,7 +8,7 @@ data_analysis
  - [X]Video Game Sales - Sales data from more than 16,500 games
  - [X]Cycle Share Dataset - Bicycle Trip Data from Seattle’s Cycle Share System
 - [X]Start two Jupyter Notebooks called vg-stats and bike-stats
-- [ ]Add a markdown cell at the top of each notebook with the title of this assignment, an appropriate name for the data set, as well as your name and the date
+- [X]Add a markdown cell at the top of each notebook with the title of this assignment, an appropriate name for the data set, as well as your name and the date
 - [ ]Load up each of these data sets into a Pandas DataFrame within each respective file.
  - NOTE: There’s an issue with one of the CSV files. You will need to find a way to handle that error… Google it, and work around it!
 - [ ]In the vg-stats notebook answer the following questions/do the following tasks. Note that the numbers quoted for sales are in the millions, and apply only for those games with over 100,000 sales.:
@@ -51,3 +51,4 @@ pipenv install pandas
 - installed numpy
 - install pandas
 - Created vg-status and bike-stats
+- Added markdown titles for both files.
