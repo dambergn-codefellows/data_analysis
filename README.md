@@ -4,10 +4,10 @@ data_analysis
 ## Version 1.0.0
 
 ### Features 1.0.0
-- [ ]Find and download the following data sets:
- - [ ]Video Game Sales - Sales data from more than 16,500 games
- - [ ]Cycle Share Dataset - Bicycle Trip Data from Seattle’s Cycle Share System
-- [ ]Start two Jupyter Notebooks called vg-stats and bike-stats
+- [X]Find and download the following data sets:
+ - [X]Video Game Sales - Sales data from more than 16,500 games
+ - [X]Cycle Share Dataset - Bicycle Trip Data from Seattle’s Cycle Share System
+- [X]Start two Jupyter Notebooks called vg-stats and bike-stats
 - [ ]Add a markdown cell at the top of each notebook with the title of this assignment, an appropriate name for the data set, as well as your name and the date
 - [ ]Load up each of these data sets into a Pandas DataFrame within each respective file.
  - NOTE: There’s an issue with one of the CSV files. You will need to find a way to handle that error… Google it, and work around it!
@@ -50,3 +50,4 @@ pipenv install pandas
 - installed jupyter notebook
 - installed numpy
 - install pandas
+- Created vg-status and bike-stats
